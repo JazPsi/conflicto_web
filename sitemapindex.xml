@@ -7,15 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://ejemplo.com/categories/cat_psicoanalisis.xml</loc>
-  <lastmod>2021-03-10T00:45:00Z</lastmod>
+  <lastmod>2021-03-10T03:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ejemplo.com/categories/freud.xml</loc>
-  <lastmod>2021-03-10T00:45:00Z</lastmod>
+  <lastmod>2021-03-10T03:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ejemplo.com/categories/inconciente.xml</loc>
-  <lastmod>2021-03-10T00:28:00Z</lastmod>
+  <lastmod>2021-03-10T03:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ejemplo.com/categories/lacan.xml</loc>
@@ -27,15 +27,15 @@
  </sitemap>
  <sitemap>
   <loc>https://ejemplo.com/categories/psicoanalisis.xml</loc>
-  <lastmod>2021-03-10T00:45:00Z</lastmod>
+  <lastmod>2021-03-10T03:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ejemplo.com/categories/pulsion.xml</loc>
-  <lastmod>2021-03-10T00:28:00Z</lastmod>
+  <lastmod>2021-03-10T03:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ejemplo.com/categories/sexualidad.xml</loc>
-  <lastmod>2021-03-10T00:28:00Z</lastmod>
+  <lastmod>2021-03-10T03:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ejemplo.com/categories/significantes.xml</loc>
@@ -47,10 +47,10 @@
  </sitemap>
  <sitemap>
   <loc>https://ejemplo.com/rss.xml</loc>
-  <lastmod>2021-03-10T00:45:00Z</lastmod>
+  <lastmod>2021-03-10T03:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ejemplo.com/sitemap.xml</loc>
-  <lastmod>2021-03-10T00:45:00Z</lastmod>
+  <lastmod>2021-03-10T03:03:00Z</lastmod>
  </sitemap>
 </sitemapindex>
