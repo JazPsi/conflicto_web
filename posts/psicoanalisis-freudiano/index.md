@@ -1,6 +1,6 @@
 .. title: Pequeña reseña sobre Psicoanálisis Freudiano
 .. slug: psicoanalisis-freudiano
-.. date: 2021-03-08 20:00:00 UTC-03:00
+.. date: 2021-03-09 22:00:00 UTC-03:00
 .. author: Jazmín Vivas Cruz
 .. description: Reseña sobre Psicoanálisis Freudiano
 .. category: Psicoanálisis
