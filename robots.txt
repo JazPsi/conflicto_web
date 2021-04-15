@@ -1,4 +1,4 @@
-Sitemap: https://ejemplo.com/sitemapindex.xml
+Sitemap: http://conflictopsiquico.com.ar/sitemapindex.xml
 
 User-Agent: *
-Host: ejemplo.com
+Host: conflictopsiquico.com.ar
