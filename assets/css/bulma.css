@@ -6929,6 +6929,12 @@ label.panel-block:hover {
   padding: 0.75rem;
 }
 
+/*DARKFOE*/
+.columns {
+  /*margin-top: auto;*/
+}
+/* ------------------------------- */
+
 .columns.is-mobile > .column.is-narrow {
   flex: none;
 }

@@ -7,82 +7,82 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://ejemplo.com/</loc>
-  <lastmod>2021-03-07T19:18:00Z</lastmod>
+  <lastmod>2021-04-02T20:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/2021/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-04-02T20:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/archive.html</loc>
-  <lastmod>2021-03-10T03:03:00Z</lastmod>
+  <lastmod>2021-04-15T03:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/categories/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-04-02T20:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/categories/cat_psicoanalisis/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-04-02T20:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/categories/freud/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-04-02T20:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/categories/inconciente/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-04-02T20:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/categories/lacan/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-03-07T19:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/categories/practica/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-03-07T19:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/categories/psicoanalisis/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-04-02T20:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/categories/pulsion/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-04-02T20:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/categories/sexualidad/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-04-02T20:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/categories/significantes/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-03-07T19:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/galleries/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-03-07T19:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/listings/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-03-07T19:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/pages/contacto/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-03-07T19:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/pages/servicios/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-03-07T19:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/pages/sobre-mi/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-03-07T19:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/posts/apectos-relacionados/</loc>
-  <lastmod>2021-03-07T18:53:00Z</lastmod>
+  <lastmod>2021-04-02T20:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://ejemplo.com/posts/psicoanalisis-freudiano/</loc>
-  <lastmod>2021-03-10T03:03:00Z</lastmod>
+  <lastmod>2021-04-02T20:15:00Z</lastmod>
  </url>
 </urlset>
