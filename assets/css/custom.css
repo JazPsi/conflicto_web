@@ -340,6 +340,19 @@ h4 > b {
     background-color: var(--aguamS);
 }
 
+@media only screen and (max-width: 700px){
+  .tags{
+    flex-wrap: wrap;
+  }
+  .pagination > ul > li.previous {
+    float: none !important;
+    margin-bottom: 1em;
+  }
+  .pagination > ul > li.next {
+    float: none !important;
+  }
+}
+
 @media only screen and (min-width: 48em){
   .list-item{
       width:49%;
