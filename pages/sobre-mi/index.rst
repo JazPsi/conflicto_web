@@ -1,8 +1,8 @@
 .. title: Sobre Mí
 .. slug: sobre-mi
 .. date:
-.. tags: 
-.. link: 
+.. tags:
+.. link:
 .. description: Jazmín Vivas Cruz
 
 .. raw:: html
@@ -10,7 +10,7 @@
 		    <section class="hero has-background-danger-light is-medium">
 		      <!-- Hero head: will stick at the top -->
 		      <div class="hero-head">
-		        
+
 		      </div>
 		    </section>
 		    <section class="section mx-0">
@@ -54,12 +54,12 @@
 		            <div class=" pt-1 px-1">
 		              <div class="card-image">
 		                <figure class="image">
-		                  <img class="perfil is-rounded" src="/images/logo500.png" alt="Conflicto Psiquico" width="480px" height="480px">
+		                  <img class="perfil is-rounded" src="/images/logo500_.png" alt="Conflicto Psiquico" width="480px" height="480px">
 		                </figure>
 		              </div>
 		              <div class="card-content px-0">
 		                <div class="message is-danger">
-		                 
+
 		                  <div class="message-body">
 		                    <p class="subtitle is-4">Sobre este sitio</p>
 		                    <!--p class="subtitle is-6"> </p-->
