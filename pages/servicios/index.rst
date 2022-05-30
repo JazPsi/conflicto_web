@@ -98,7 +98,7 @@
 			</div>
 
 			<hr>
-			<div class="container centrado">
+			<!--div class="container centrado">
 				<h3 class="subtitle is-4">Talleres</h3>
 				<p>
 				Lugares de aprendizaje e intercambio. Se propone un desarrollo teórico práctico sobre ciertas temáticas con el fin de compartir conocimiento, facilitando herramientas y experiencias.
@@ -106,5 +106,5 @@
 				<div class="buttons botonera mt-4">
 				  <button class="button is-large servicios btn-disabled" disabled><a href="/pages/contacto/">Ingresar</a></button>
 				</div>
-			</div>
+			</div-->
 		</body>

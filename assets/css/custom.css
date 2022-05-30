@@ -28,6 +28,9 @@
   --gris-oscuro: rgba(104, 108, 119, 1); /*#686c77*/
 }
 /*----------------------------------------------------*/
+a {
+  color: var(--aguamF);
+}
 
 .btn-flotante {
 	font-size: 16px; /* Cambiar el tamaño de la tipografia */
@@ -87,12 +90,18 @@
     margin-top: 0.1rem;
 }
 
-#post-index{
+/*#post-index{
   background: rgba(228, 229, 231, 1);
   background: linear-gradient(180deg,
     rgba(228, 229, 231, 1) 5%,
     rgba(173, 176, 184, 1) 55%,
     rgba(104, 108, 119, 1) 100%);
+}*/
+#post-index{
+  background: var(--rosita);
+  line-height: 1.8;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .hero.has-background {
@@ -307,7 +316,8 @@ h4 > b {
 
 #img-aside {
   box-shadow: none;
-  border-radius: 3px;
+  /*border-radius: 3px; con foto perfil 50% */
+  border-radius: 50%;
   height: auto;
   width: 80%;
   margin: 2.5em;
