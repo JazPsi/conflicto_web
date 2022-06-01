@@ -99,13 +99,6 @@ a.navbar-item:hover{
     margin-top: 0.1rem;
 }
 
-/*#post-index{
-  background: rgba(228, 229, 231, 1);
-  background: linear-gradient(180deg,
-    rgba(228, 229, 231, 1) 5%,
-    rgba(173, 176, 184, 1) 55%,
-    rgba(104, 108, 119, 1) 100%);
-}*/
 #post-index{
   background: var(--rosita);
   line-height: 1.8;
