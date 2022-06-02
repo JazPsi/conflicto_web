@@ -225,7 +225,7 @@ a.tag:hover {
 
 .tagindex .postlist > li{
   align-items: center;
-  background-color: var(--salmonF);
+  background-color: var(--rosita);
   border-radius: 4px;
   color: #4a4a4a;
   display: inline-flex;
@@ -244,7 +244,10 @@ a.tag:hover {
 }
 
 .postlist > li:hover{
-  background-color: var(--rosita);
+  background-color: var(--aguamS);
+}
+.postlist > li:hover > a{
+  color: #4a4a4a;
 }
 
 .tagpage > header > h1{
@@ -265,11 +268,15 @@ a.tag:hover {
 }
 
 .button.servicios {
-  background-color: var(--salmonS);
+  background-color: var(--rosita);
 }
 
 .button.servicios:hover {
   background-color: var(--aguamS);
+}
+
+.button.servicios:hover > a{
+  color: #4a4a4a;
 }
 
 .btn-disabled > a{
